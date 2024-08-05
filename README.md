@@ -6,8 +6,4 @@ A Retrieval-Augmented Generation (RAG) project to enhance the understanding of L
 Project yet incomplete...
 
 ### Current Frontend
-<<<<<<< HEAD
-![alt text](images/frontend.png)
-=======
-![alt text](images/frontend.png)
->>>>>>> 3fe1fc1e80b97e58d97d495a16a32534df3fdc3a
+![](images/frontend.png)
