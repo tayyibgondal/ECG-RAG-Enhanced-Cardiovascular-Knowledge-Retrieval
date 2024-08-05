@@ -2,5 +2,8 @@
 
 A Retrieval-Augmented Generation (RAG) project to enhance the understanding of Large Language Models (LLMs) using ECG textbooks and clinical records.
 
-### Frontend
+## Note: 
+Project yet incomplete...
+
+### Current Frontend
 ![alt text](images/frontend.png)
